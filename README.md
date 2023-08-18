@@ -1,6 +1,6 @@
 ![MasterHead](https://dotnet.microsoft.com/static/images/illustrations/swimlane-devops-conductor.svg?v=P1El7hmXewLVXtjy5x1HKUlYKXUUZmtTJGqDKdJ91tk)
 <h1 align="center">Hello!👋, I'm Egundeyi Samuel</h1>
-<h4 align="center">A passionate software engineer on a journey to do greater things, currently enrolled in ALX Africa software engineering certification program, starting with C language and learning other languages over time to improve and apply my problem solving skills.</h4>
+<h3 align="center">A passionate software engineer on a journey to do greater things, currently enrolled in ALX Africa software engineering certification program, starting with C language and learning other languages over time to improve and apply my problem solving skills.</h3>
 <img
 align="right"alt="Coding"width="400"src="https://i.pinimg.com/originals/84/88/9a/84889ad9e996c2c74ffdf33e73378c66.gif">
 
