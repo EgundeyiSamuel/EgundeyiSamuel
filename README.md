@@ -12,7 +12,7 @@ align="right"alt="Coding"width="400"src="https://i.pinimg.com/originals/84/88/9a
 
 - 🌱 I am in the process of learning the **C** programming language.
 
-- 📫 How to reach me **sammylonii@icloud.com**
+- 📫 How to reach me **s.egundeyi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
